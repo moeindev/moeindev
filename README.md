@@ -1,6 +1,6 @@
 # Mohammad Moein Abdi 👨🏻‍💻
 
-> I'm an Mobile developer, I build native android and iOS apps using Swift,Kotlin and java
+> I'm a Mobile developer, I build native android and iOS apps using Swift,Kotlin and java
 
 
 <!--

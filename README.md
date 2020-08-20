@@ -2,7 +2,7 @@
 
 > I'm a Mobile developer, I build native android and iOS apps using Swift,Kotlin and java
 
-![Moein's github stats](https://github-readme-stats.vercel.app/api?username=moeindev&show_icons=true&theme=dracula)
+![Moein's github stats](https://github-readme-stats.vercel.app/api?username=moeindev&include_all_commits=true&show_icons=true&theme=dracula)
 
 <!--
 **moeindev/moeindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,21 +1,30 @@
 # Mohammad Moein Abdi 👨🏻‍💻
 
-> I'm a Mobile developer, I build native android and iOS apps using Swift,Kotlin and java
+> I'm an android developer, I build native android apps using Kotlin and java
+
+**If you have an intersting Android project or just have a question about android, Feel free to reach me!**
+
+**📫 How to reach me:**
+
+Social | Link
+------ | ----
+LinkedIn | https://www.linkedin.com/in/moeindeveloper
+Telegram | https://t.me/notitle
+Instagram | https://instagram.com/moeindeveloper
+Blog(Persian) | https://virgool.io/@moeinDeveloper
+Website | https://moeindeveloper.ir
+
+
+*My stats:*
 
 ![Moein's github stats](https://github-readme-stats.vercel.app/api?username=moeindev&include_all_commits=true&show_icons=true&theme=dracula)
 
-<!--
-**moeindev/moeindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+*Profile visits:*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Count](https://profile-counter.glitch.me/moeindev/count.svg)
 
+
+*my Skills:*
+
+![my skills](https://github-readme-linkedin.vercel.app/skills?username=moeindeveloper)

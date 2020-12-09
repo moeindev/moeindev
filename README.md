@@ -25,6 +25,3 @@ Website | https://moeindeveloper.ir
 ![Visitor Count](https://profile-counter.glitch.me/moeindev/count.svg)
 
 
-*my Skills:*
-
-![my skills](https://github-readme-linkedin.vercel.app/skills?username=moeindeveloper)

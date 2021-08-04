@@ -6,16 +6,21 @@
 
 
 ### About me  
-### I'm Moein, an Android freelance developer 👨‍💻 🤘  
+### I'm Moein, a Freelance Android developer 👨‍💻 🤘  
   
 
-- 🔭 I’m currently working on my github page.  
+- 🔭 I’m currently working on opensource projects.
   
 
-- 🌱 I’m currently learning [Ktor](https://ktor.io/).  
+- 🌱 I’m currently studying in these subjects:
+   - Jetpack compose
+   - Kotlin coroutines
+   - Kotlin multiplatform
+   - Ktor
+   - Basic networking & CCNA 
   
 
-- ❓ Ask me about anything related to Android and Mobile development.  
+- ❓ Ask me about anything related to Android and Mobile development. 
   
 
 <br/>  
